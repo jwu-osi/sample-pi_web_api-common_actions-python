@@ -33,7 +33,7 @@ For example:
   "Username": "REPLACE_WITH_USERNAME",
   "Password": "REPLACE_WITH_PASSWORD",
   "AuthType": "kerberos",
-  "VerifySLL": true
+  "VerifySSL": true
 }
 ```
 
